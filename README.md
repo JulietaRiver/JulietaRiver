@@ -8,7 +8,6 @@ Mi primer acercamiento a la programación ocurrió durante mi carrera en **Antro
 
 Después de completar mi tesis, decidí expandir mis conocimientos y me especialicé en **Ciencias de Datos** en el **bootcamp TripleTen**. En paralelo, adquirí experiencia profesional en la industria de **TI**, trabajando con empresas para el **desarrollo organizacional** y optimización de procesos a través del análisis de datos.
 
-## 🛠️ Habilidades técnicas
 
 <div id="header" align="left">
   <!-- Skills -->
@@ -33,16 +32,12 @@ Después de completar mi tesis, decidí expandir mis conocimientos y me especial
   <a href="#"><img decoding="async" src="https://img.shields.io/badge/Scrum_Master-00BFFF?style=for-the-badge&logo=scrum&logoColor=white" alt="scrum master"/></a>
   <a href="#"><img decoding="async" src="https://img.shields.io/badge/Kanban-FF6347?style=for-the-badge&logo=trello&logoColor=white" alt="kanban"/></a>
   <a href="#"><img decoding="async" src="https://img.shields.io/badge/Gobierno_de_TI-4B0082?style=for-the-badge&logo=it&logoColor=white" alt="gobierno de TI"/></a>
+   <a href="#"><img decoding="async" src="https://img.shields.io/badge/Gobierno_de_TI-4B0082?style=for-the-badge&logo=it&logoColor=white" alt="Generative AI"/></a>
 </div>
-
-### **Otras herramientas y técnicas:**
-- **Scrum Master**: Aplicación de metodologías ágiles para la gestión eficiente de proyectos.
-- **Generative AI**: Certificación **CERTIPROF** en inteligencia artificial generativa.
 
 ## 💼 Experiencia Profesional
 
 Actualmente, soy **Account Manager** en una empresa de TI, donde aplico mis conocimientos en **Generative AI** y **Scrum Master** para mejorar la eficiencia y productividad en los procesos comerciales. Además, he trabajado con equipos multidisciplinarios para implementar soluciones innovadoras y optimizar el análisis de **ventas** y **toma de decisiones** en diversas organizaciones.
-
 
 ## 📈 ¿En qué estoy trabajando ahora?
 
