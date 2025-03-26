@@ -43,8 +43,8 @@ Estoy enfocada en la integración de **Generative AI** y metodologías ágiles p
 
 Si tienes algún proyecto interesante o simplemente quieres charlar sobre **Ciencia de Datos**, **AI** o **Scrum**, ¡no dudes en contactarme!
 
-- **Correo**: [tu correo electrónico]
-- **LinkedIn**: [tu LinkedIn]
+- **Correo**: julieta_riverazam@gmail.com
+- **LinkedIn**: linkedin.com/in/julieta-rivera-zamora
 
 ---
 
