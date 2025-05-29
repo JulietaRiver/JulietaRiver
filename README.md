@@ -32,7 +32,7 @@ Después de completar mi tesis, decidí expandir mis conocimientos y me especial
   <a href="#"><img decoding="async" src="https://img.shields.io/badge/Scrum_Master-00BFFF?style=for-the-badge&logo=scrum&logoColor=white" alt="scrum master"/></a>
   <a href="#"><img decoding="async" src="https://img.shields.io/badge/Kanban-FF6347?style=for-the-badge&logo=trello&logoColor=white" alt="kanban"/></a>
   <a href="#"><img decoding="async" src="https://img.shields.io/badge/Gobierno_de_TI-4B0082?style=for-the-badge&logo=it&logoColor=white" alt="gobierno de TI"/></a>
-   <a href="#"><img decoding="async" src="https://img.shields.io/badge/Gobierno_de_TI-4B0082?style=for-the-badge&logo=it&logoColor=white" alt="Generative AI"/></a>
+   
 </div>
 
 ## 💼 Experiencia Profesional
@@ -41,7 +41,7 @@ Actualmente, soy **Account Manager** en una empresa de TI, donde aplico mis cono
 
 ## 📈 ¿En qué estoy trabajando ahora?
 
-Estoy enfocada en la integración de **Generative AI** y metodologías ágiles para transformar procesos comerciales y generar valor a partir del análisis de datos. Mi objetivo es seguir aprendiendo, crecer profesionalmente y colaborar en proyectos que marquen la diferencia.
+Estoy enfocada en la transición de carrera y combinar mis conocimientos comerciales con el análisis de datos y data scientist, considero que tengo un buen manejo de estrategias, sé como agregar valor a las empresas y sugerir campañas para el crecimiento y aumento de pipeline, tengo muchas ganas de seguir aprendiendo y contribuir al crecimiento organizacional
 
 ## 📬 Conectemos
 
