@@ -37,7 +37,7 @@ Después de completar mi tesis, decidí expandir mis conocimientos y me especial
 
 ## 💼 Experiencia Profesional
 
-Actualmente, soy **Account Manager** en una empresa de TI, donde aplico mis conocimientos en **Generative AI** y **Scrum Master** para mejorar la eficiencia y productividad en los procesos comerciales. Además, he trabajado con equipos multidisciplinarios para implementar soluciones innovadoras y optimizar el análisis de **ventas** y **toma de decisiones** en diversas organizaciones.
+He podido estar en el área comercial, en mi último empleo desarrollé habilidades en área de TI, ya que obtuve certificaciones en metodologías ágiles, scrum, kanban, pude observar los servicios de AWS y herramientas de gestión de proyectos como JIRA y en dónde guardábamos nuestra documentación para compartirla con el equipo, evalué a través de datos cual producto era el enfocado para cada cliente, con respecto a su sector; adicionalmente estuve en un empleo anterior como supervisora, donde lideré más de 23 personas, hacía estrategias comerciales a través de bases de datos en excel para aumentar el target de venta, adicional presenté mis resultados en tableau y Power BI, mi objetivo es siempre apoyar y sumar valor para lograr los objetivos de cada empresa
 
 ## 📈 ¿En qué estoy trabajando ahora?
 
